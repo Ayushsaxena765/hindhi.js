@@ -1,0 +1,2 @@
+# hindhi.js
+A CODE FOE REPO JAVASCRIPT BY AYUSH
